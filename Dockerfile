@@ -1,4 +1,4 @@
-From elasticsearch-head:v20190919
+From byuezu/centos-elasticsearch-head-first:v20190919
 
 MAINTAINER byz "byuezu@extremevalue.cn"
 
